@@ -5,7 +5,36 @@
 유저 조회 기능 ✓
 유저 제거, 수정 기능 ✓
 
-```bash
+```
+RESTFULAPI
+│  db.sqlite3
+│  manage.py
+│  tree.txt
+│  
+├─DjangoApi
+│  │  asgi.py
+│  │  settings.py
+│  │  urls.py
+│  │  wsgi.py
+│  │  __init__.py
+│  │  
+│  └─__pycache__
+│          ....
+│          
+├─ServerApi
+│  │  admin.py
+│  │  apps.py
+│  │  models.py
+│  │  serializers.py
+│  │  tests.py
+│  │  urls.py
+│  │  views.py
+│  │  __init__.py
+│  │  
+│  ├─migrations
+│  │  │  ....
+│          
+└─venv        
 ```
 
 
